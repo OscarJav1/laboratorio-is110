@@ -1,0 +1,28 @@
+.todo{
+    background-color: #4eec8a;
+    margin: -10px;
+    padding: 20px;
+}
+.hola{
+    justify-content: center;
+    background-color: #0a8a6a;
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-left: 20px;
+    text-align: center;
+}
+button{
+    background-color: #006b20;
+    color: #fff;
+    padding: 10px;
+    border-radius: 50px;
+}
+button:hover{
+    cursor: pointer;
+}
+h4{
+    margin-top: -25px;
+}
+i{
+    margin-right: 5px;
+}
