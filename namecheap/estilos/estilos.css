@@ -1,0 +1,126 @@
+html{
+    font-family: arial;
+}
+.logo img{
+    width: 15%;
+    padding: 15px;
+}
+.logo img:hover{
+    cursor: pointer;
+}
+.btns{
+    margin-left: -10px;
+}
+.btns button{
+    background-color: #fff;
+    border: 0px;
+    font-size: large;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: rgb(129, 129, 129);
+}
+.btns button:hover{
+    cursor: pointer;
+}
+.etp{
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 140px;
+}
+.vf{
+    background-color: rgba(0, 0, 0, 0.685);
+    border: 0px;
+    color: #fff;
+    padding: 15px;
+    width: 100%;
+    font-size: medium;
+    font-weight: lighter;
+}
+.vf:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.etp h1{
+    font-size: 60px;
+    color: #fff;
+    margin-top: 80px;
+}
+.etp h4{
+    font-size: 25px;
+    margin-top: -40px;
+    font-weight: lighter;
+    color: #fff;
+}
+.et{
+    background-color: rgb(233, 67, 1);
+    border: 0px;
+    padding: 15px;
+    color: #fff;
+    font-weight: bolder;
+    border-radius: 5px;
+    font-size: large;
+}
+.et:hover{
+    background-color: rgb(187, 53, 0);
+    cursor: pointer;
+}
+.obten{
+    text-align: center;
+    font-size: large;
+}
+.info{
+    justify-content: space-around;
+    display: flex;
+    color: rgb(129, 129, 129);
+}
+.Aprovecha{
+    font-weight: lighter;
+    font-size: large;
+    color: rgb(129, 129, 129);
+}
+.obten2{
+    font-size: xx-large;
+    color: rgb(129, 129, 129);
+}
+.osos{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(129, 129, 129);
+}
+p{
+    font-size: large;
+}
+.h4{
+    font-size: larger;
+}
+.h5{
+    font-size: large;
+}
+.osos button{
+    background-color: #fff;
+    border: 0px;
+    color: rgb(233, 67, 1);
+    font-size: large;
+}
+.osos button:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+.Explora{
+    background-color: #fff;
+    border: 0px;
+    color: rgb(23, 151, 168);
+    font-weight: bold;
+    font-size: medium;
+}
+.Explora:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+}
