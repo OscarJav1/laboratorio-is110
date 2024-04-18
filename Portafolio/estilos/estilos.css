@@ -1,0 +1,67 @@
+html{
+    font-family: arial;
+}
+body{
+    background-color: rgb(13, 4, 24);
+    color: #fff;
+}
+.presentacion{
+    padding-top: 80px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.info{
+    padding-left: 200px;
+    width: 500px;
+}
+.info h2{
+    margin-top: -20px;
+    font-weight: lighter;
+}
+.info h6{
+    font-size: 15px;
+    font-weight: lighter;
+}
+i{
+    font-size: 30px;
+    color: #fff;
+    margin-left: 10px;
+}
+.foto img{
+    width: 30%;
+    border-radius: 50%;
+}
+.estudios{
+    padding-top: 50px;
+}
+.estudios h2{
+    text-align: center;
+}
+.estudios p{
+    text-align: center;
+}
+p{
+    font-size: 15px;
+}
+.proyectos img{
+    width: 50%;
+}
+.proyectos{
+    text-align: center;
+    padding-top: 50px;
+}
+.nike{
+    padding-top: 30px;
+}
+.NameCheap{
+    padding-top: 30px;
+}
+.Restaurante{
+    padding-top: 30px;
+}
+footer{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
